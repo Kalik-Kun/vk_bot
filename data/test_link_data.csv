@@ -1,0 +1,4 @@
+,last name,first name,patronymic,group,course,room,link,size,frequency,mail,link killer,link victim,index killer,index victim,belly,kills,kill_list,level access,live flag
+0,Долгодворов,Егор,Викторович,Б01-002,2,425,173354038,,очень редко,dolgodvorov.ev@phystech.edu,370285501,347734438,2,1,1000.0,0,,0,1
+1,Гаврилов,Виктор,Павлович,Б01-110,1,417,347734438,S/M,бывает случается,Vodolatskii.vp@phystech.edu,173354038,370285501,0,2,1000.0,0,,0,1
+2,Шлюха,Шлюхович,Шлюхович,Б01-903,3,206,370285501,,"часто, бывает среди недели",kurbanov.amk@phystech.edu,347734438,173354038,1,0,1000.0,0,,0,1
